@@ -1,0 +1,31 @@
+blog/2026-11-04-humming-sglang.md
+  s_09af67a488da23::t_a0d147ee2a7e27 13,51-57,61-62,73,77,83-85,124,126,128-135,137,141-147,149,151
+public/files/humming-sglang-0.1.18/README.md
+  s_09af67a488da23::t_f15e1732de89bd 1-275
+public/files/humming-sglang-0.1.18/long-context-quality.json
+  s_09af67a488da23::t_097f4017006a31 1-59
+public/files/humming-sglang-0.1.18/marlin-profile-summary.json
+  s_09af67a488da23::t_34f4647a9178ba 1-626
+public/files/humming-sglang-0.1.18/paired-ep8-results.json
+  s_09af67a488da23::t_4812465b2494af 1-923
+public/files/humming-sglang-0.1.18/results.json
+  s_09af67a488da23::t_189091f4439bdb 1-7438
+public/files/humming-sglang-0.1.18/scale-audit-ep1.json
+  s_09af67a488da23::t_05295ce21dbace 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6541d3bba2bc9caf2fb824942250bd6b81a485a1",
+  "prompts": {},
+  "sessions": {
+    "s_09af67a488da23": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a531-da8a-73f2-94ae-49ab92e61ba8",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zekai <zekai01@antgroup.com>"
+    }
+  }
+}
