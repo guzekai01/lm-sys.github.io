@@ -1,0 +1,14 @@
+blog/2026-11-04-humming-sglang.md
+  h_4b260d30a53a95 55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "753200281681bc1cd56b5c1b760851e43de791d7",
+  "prompts": {},
+  "humans": {
+    "h_4b260d30a53a95": {
+      "author": "zekai <zekai01@antgroup.com>"
+    }
+  }
+}
