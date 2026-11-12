@@ -1,0 +1,21 @@
+blog/2026-11-04-humming-sglang.md
+  s_1b13922fc0582b::t_cd38f51ba9872a 200-201,211-212,286-287
+  s_1b13922fc0582b::t_45e7d4c5f7674a 203-209,216
+  s_1b13922fc0582b::t_fc9bc566fd9de8 128,169,184,187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ceebff2738646aed60ad2d090171b06856c2067",
+  "prompts": {},
+  "sessions": {
+    "s_1b13922fc0582b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d056-56ed-7fe0-b6c0-0749c3b9ee3b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zekai <zekai01@antgroup.com>"
+    }
+  }
+}
